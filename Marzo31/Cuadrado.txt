@@ -1,0 +1,7 @@
+Introduce el valor inicial de X: Introduce el valor final de X: Introduce el valor del incremento: El valor de X: 5, su cuadrado es: 25
+El valor de X: 8, su cuadrado es: 64
+El valor de X: 11, su cuadrado es: 121
+El valor de X: 14, su cuadrado es: 196
+El valor de X: 17, su cuadrado es: 289
+El valor de X: 20, su cuadrado es: 400
+El valor de X: 23, su cuadrado es: 529
